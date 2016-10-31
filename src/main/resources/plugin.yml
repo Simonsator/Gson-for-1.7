@@ -1,0 +1,5 @@
+main: de.simonsator.gsonadder.PluginMainClass
+name: Gson-for-1-7-10
+version: 1.0
+author: Simonsator
+load: STARTUP
